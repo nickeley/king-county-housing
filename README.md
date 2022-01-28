@@ -1,6 +1,17 @@
-# ds-project-template
+# EDA project on King County Housing data
 
-Template for creating ds simple projects
+This is an EDA based on the King County Housing dataset.
+
+Please first have a look at the [assignment](assignment.md) and also at the [workflow](workflow.md).
+
+The actual EDA can be found here: [EDA](EDA.ipynb)
+
+And here is the final project presentation: [EDA project presentation](EDA-project-presentation.pdf)
+
+## Data
+
+The data is not included in this repository and can be found on kaggle:
+https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Requirements
 
